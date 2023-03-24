@@ -9,7 +9,7 @@ surveys = ['ROSAT', 'Swift', 'Chandra', 'XMM', 'XMMSL']
 QLUM = 10 ** 31 * u.erg
 OLUM = 10 ** 38 * u.erg
 SIM_POSITIONS = '../data/sample_xrb_positions_10M.csv.gz'
-EXPOSURES = '../data/exposures.csv'
+EXPOSURES = '../data/exposures_full.csv'
 
 # Xray survey extinction
 WebPIMMs_output = {
